@@ -112,7 +112,7 @@ git config --global user.email "ivan@example.com"
 ------------
 
 - Все хеши, а также таблицу соответствий хеш → информация о коммите Git хранит в папке .git.
-<<<<<<< HEAD
+
 
 ## HEAD
 
@@ -122,5 +122,5 @@ git config --global user.email "ivan@example.com"
 
 
 - Вместо хеша последнего коммита можно написать слово HEAD — Git вас поймёт.
-=======
+
 
